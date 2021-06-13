@@ -4,7 +4,7 @@ module.exports = {
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: null,
+  rootNotionSpaceId: '1132188c622f447f96c0ea360957bca5',
 
   // basic site info (required)
   name: ' Wi11iamDing‘Blog',
