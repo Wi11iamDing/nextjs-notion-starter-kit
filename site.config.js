@@ -18,14 +18,14 @@ module.exports = {
 
   // social usernames (optional)
   twitter: '',
-  github: 'Wi11iamDing',
+  github: '',
   linkedin: '',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
   defaultPageIcon: null,
   defaultPageCover: null,
-  defaultPageCoverPosition: 1.0,
+  defaultPageCoverPosition: 0.5,
 
   // image CDN host to proxy all image requests through (optional)
   // NOTE: this requires you to set up an external image proxy
