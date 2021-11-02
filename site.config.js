@@ -1,14 +1,13 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
   rootNotionPageId: 'e5545d6148974f6990e0eee4c5494892',
-
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
   name: ' Wi11iamDing‘Blog',
-  domain: 'https://www.notion.so/Wi11iamDing-e5545d6148974f6990e0eee4c5494892',
+  domain: 'https://wi11iamding.notion.site/Wi11iamDing-s-Blog-e5545d6148974f6990e0eee4c5494892',
   author: 'Wi11iamDing',
 
   // open graph metadata (optional)
